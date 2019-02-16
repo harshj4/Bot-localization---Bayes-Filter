@@ -1,0 +1,3 @@
+<launch>
+	<node name="bayes_filter" pkg="lab4" type="lab4.py" output="screen" />
+</launch>
