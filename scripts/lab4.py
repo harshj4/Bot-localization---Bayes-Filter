@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 #Name: Harshal Ganesh Jagtap
-#UB Person No: 50290606
 # Email ID: harshalg@buffalo.edu
 
 
